@@ -1,0 +1,18 @@
+net: "models/tiny_ssd_test_1_1_2_0/train_val.prototxt" 
+test_iter: 2000 #not subject to iter_size
+test_interval: 1000
+base_lr: 0.04
+display: 100
+max_iter: 320000
+iter_size: 8 #global batch size = batch_size * iter_size
+lr_policy: "poly"
+power: 1.0 #linearly decrease LR
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 1000
+snapshot_prefix: "models/tiny_ssd_test_1_1_2_0/model/"
+solver_mode: GPU
+random_seed: 42
+snapshot_after_train: false
+test_initialization: false
+average_loss: 40
