@@ -27,11 +27,11 @@
 * Hrnet
 
 ## Table
-| 水果        | 价格    |  数量  |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
+| network            | top-1 accuracy    |  params(million)  | flops/Madds(million) | latency(ms)-hardware |
+| --------   | -----:   | :----: | :-----: |
+| fire(tiny ssd)     | 48.8      |       |        |        |
+| alexnet        |  57.2      |   60    |    720 |      |
+| squeezenet v1   | 57.5      |   1.25    |  1700 |     |
 
 
 
