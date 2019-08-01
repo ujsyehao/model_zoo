@@ -31,6 +31,9 @@
 | fire(tiny ssd)     | 48.8              |                   |                      |                      |
 | alexnet            |  57.2             |   60              |    720               |                      |
 | squeezenet v1      | 57.5              |   1.25            |  1700                |                      |
+
+
+## test
 | mobilenet v2 0.35  |        60.8   | 1.6 | 59.2 |   |
 | squeezenet v1-variant | 61 |  |  |  | 
 | shufflenetv2 0.5 | 60.3 | | 41 | |
