@@ -69,6 +69,12 @@
 
 
 
+
+
+
+
+
+# detection model
 | | | | | |
 | resnet152 | 77.8 | 60 | 11000 | |
 | densenet121 | 78.65 | 6.87 | 2833 | |
@@ -97,8 +103,3 @@
 | | | | | |
 | Gpipe | 84.3 | 557 | | |
 | efficientnetB7 | 84.4 | 66 | 37000 | |
-
-
-
-
-# detection model
