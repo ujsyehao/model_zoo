@@ -49,7 +49,7 @@
 | peleenet| 71.3 | 2.8 | 508 | |
 | VGG16 | 71.5 | 138 | 15346| |
 | shufflenetv1 1.5x | 71.5 | 3.4 | 292 | |
-| mobilenetv2 | 72 | 3.4 | 300 | P1-78 P2-90 P3-61.3 |
+| mobilenetv2 | 72 | 3.4 | 300 | P1-78 <br>P2-90<br> P3-61.3 |
 | mobilenetv3-large 0.75 | 73.3 | 4 | 155 | |
 | shufflenetv1 2x(g=3) | 73.7 | 5.2 | 524 | |
 | inception v2 | 73.9 |  | | |
@@ -57,7 +57,7 @@
 | shufflenetv1 | 74.8 | | 2300| | 
 | shufflenetv2 2x | 74.9 | | 591 | |
 | densenet-41-variant| 75.0 | 1.13 | 545 | |
-| mobilenetv3-large | 75.2 | 5.4 | 219 | P1-66 P2-77 P3-52.6|
+| mobilenetv3-large | 75.2 | 5.4 | 219 | P1-66<br>P2-77<br> P3-52.6|
 | mnasnet-A1 | 75.2 | 3.9 | 315 | |
 | resnet50 | 76 | 26 | 4100| |
 | densenet169 | 76.2 | 14 | 3500 | |
