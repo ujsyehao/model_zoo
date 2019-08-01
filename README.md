@@ -28,10 +28,10 @@
 
 ## Table
 | network            | top-1 accuracy    |  params(million)  | flops/Madds(million) | latency(ms)-hardware |
-| --------   | -----:   | :----: | :-----: |
-| fire(tiny ssd)     | 48.8      |       |        |        |
-| alexnet        |  57.2      |   60    |    720 |      |
-| squeezenet v1   | 57.5      |   1.25    |  1700 |     |
+| --------           | -----:            | :----:            | :-----:              | :-------:            |
+| fire(tiny ssd)     | 48.8              |                   |                      |                      |
+| alexnet            |  57.2             |   60              |    720               |                      |
+| squeezenet v1      | 57.5              |   1.25            |  1700                |                      |
 
 
 
